@@ -1,0 +1,5 @@
+{ 
+    "g": "gabz", 
+    "mf": "https://updategblink2.site/hotupdate/", 
+    "p": "remote-asset" 
+}
